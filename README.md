@@ -77,3 +77,5 @@ Repository ini berisi kode aplikasi **ArtCore**, platform sewa dan beli karya se
 ## Seeder & Migrasi
 - Seeder awal (kategori, unit contoh, admin) memudahkan setup.
 - Migrasi tambahan menambahkan kolom penalti ke tabel `rentals` dan `return_records` untuk proses denda.
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/68697a51-a761-4d93-bce6-3edc4ae415b3" />
